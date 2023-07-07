@@ -4,11 +4,11 @@ const AboutMe = () => {
 
   return (
     <>
-    <div style={{display: "flex", width: "100%", paddingLeft: "100px", paddingRight: "100px", justifyContent: "space-around"}}>
+    <div className="aboutMeContainer">
 
     {/* Left Panel */}
     <div
-      className="contactInfo"
+      className="contactInfo" style={{marginLeft: "50px"}}
     >
       <h4 className="contentTitle">Education</h4>
       <p className="infoDescription">My Education and the scores I secured </p>
@@ -52,7 +52,7 @@ const AboutMe = () => {
     {/* Right Panel */}
 
     <div
-      className="contactInfo"
+      className="contactInfo" style={{marginLeft: "50px"}}
       
     >
       <h4 className="contentTitle">Languages</h4>
