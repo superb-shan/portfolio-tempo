@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Task Mangement Website",
+    "description": "A Task Management website based on 80% Js which utilizes local data storage. Learned the importance of Js in this internet era and how to use them to make eye-catching websites.",
+    "technologies": "JS | HTML | CSS",
+    "bgcolor": "#f37737"
+  },
+  {
+    "title": "Disney+, Zomato Clones",
+    "technologies": "JS | HTML | CSS | Python | Django",
+    "description": " Imitation of Landing pages of the above-mentioned websites. Learned how different websites work and most importantly about the UI & UX of those websites which is the most crucial element of any website.",
+    "bgcolor": "#29cbe0"
+  },
+  {
+    "title": "Handwriting learning Model & Music Preference Model (ML & DL)",
+    "technologies": "Python | Matlab",
+    "description": "Handwriting analysis is done in MATLAB. which most programmers feel is difficult to program. Learned about different types of models and trained them.Then tried a music suggestion model with the knowledge of the previous model, in which used Deep Learning to create an ANN.",
+    "bgcolor": "#6c4bf4"
+  },
+  {
+    "title": "Agrobots Console Application",
+    "technologies": "Java | API | Terminal",
+    "description": "A console-based application in which users sign in. sign-up, and employee sign in which mimics an Agrobot purchasing site, with data stored using MySQL and connected to the JAVA application. Learned the use of connectivity and combinations of languages.",
+    "bgcolor": "#F00F00"
+  },
+  {
+    "title": "Smart Mirror (IoT)",
+    "technologies": "Python | WeatherAPI | IoT",
+    "description": "Shows weather information and personal notes in a mirror which is simulated in a GUI with real-time data",
+    "bgcolor": "#8fd400"
+  }
+]
