@@ -8,7 +8,7 @@
       <img src="src/images/logo.png" alt="Logo" width="200" height="200">
     </a>
     <h3 align="center">My React Portfolio</h3>
-    <p align="center">
+    <p align="center"> 
     <br/>
       This portfolio application was built using React and is designed to showcase my projects. It features a dynamic and visually appealing layout. <br/>
       <br/>
